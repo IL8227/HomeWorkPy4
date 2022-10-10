@@ -15,7 +15,6 @@ c = randint(0, 100)
 k = int(input('Введите значение степени: '))
 
 polinom = f'{a} * x^{k} + {b} * x + {c}'
-# print(a,'*x ^',k, ' + ',b,'* x',' + ',c)
 print(polinom)
  
 
