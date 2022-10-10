@@ -18,7 +18,7 @@ polinom = f'{a} * x^{k} + {b} * x + {c}'
 print(polinom)
  
 
-with open('file_task4', 'w+') as f:
+with open('file_tas_4', 'w+') as f:
     f.write(polinom)
 
 
