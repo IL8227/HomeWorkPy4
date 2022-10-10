@@ -33,5 +33,5 @@ with open('file_polinom_2', 'w+') as h:
 sum_polinom = f'{a + a_2} * x^{k} + {b + b_2} * x +{c + c_2}'
 
 
-with open('sum_polino', 'w+') as g:
+with open('sum_polinom', 'w+') as g:
     g.write(sum_polinom)
